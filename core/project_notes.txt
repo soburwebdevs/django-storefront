@@ -1,0 +1,4 @@
+Super User infos:
+username: admin
+email: admin@admin.com
+pass: coding123
