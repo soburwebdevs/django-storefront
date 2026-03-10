@@ -17,6 +17,7 @@ djangorestframework = "*"
 django-templated-mail = "*"
 redis = "*"
 celery = "*"
+flower = "*"
 
 [dev-packages]
 autopep8 = "*"
