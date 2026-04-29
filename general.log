@@ -1,0 +1,36 @@
+Watching for file changes with StatReloader
+Cannot execute silk_profile as silk is not installed correctly.
+/home/soburwebdevs/Back-end Development/Django Projects/2. Ultimate Django Series Part 3/storefront3/storefront/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Cannot execute silk_profile as silk is not installed correctly.
+Calling httpbin...
+Received the response.
+Not Found: /favicon.ico
+/home/soburwebdevs/Back-end Development/Django Projects/2. Ultimate Django Series Part 3/storefront3/storefront/settings.py changed, reloading.
+2026-04-26 05:30:15,593 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2026-04-26 05:30:15,660 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-26 05:36:24,378 (INFO) - playground.views - Calling httpbin...
+2026-04-26 05:36:27,466 (INFO) - playground.views - Received the response.
+2026-04-26 06:42:24,930 (INFO) - django.utils.autoreload - /home/soburwebdevs/Back-end Development/Django Projects/2. Ultimate Django Series Part 3/storefront3/storefront/settings.py changed, reloading.
+2026-04-26 07:06:32,789 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2026-04-26 07:06:32,860 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-26 07:08:52,126 (WARNING) - django.request - Unauthorized: /store/collections/
+2026-04-26 07:08:52,130 (WARNING) - django.request - Forbidden: /store/collections/
+2026-04-26 07:08:52,133 (WARNING) - django.request - Bad Request: /store/collections/
+2026-04-26 07:08:52,143 (WARNING) - django.request - Not Found: /store/collections/999/
+2026-04-26 07:08:52,190 (WARNING) - django.request - Bad Request: /store/products/
+2026-04-26 07:08:52,193 (WARNING) - django.request - Forbidden: /store/products/
+2026-04-26 07:08:52,195 (WARNING) - django.request - Unauthorized: /store/products/
+2026-04-26 07:08:52,203 (WARNING) - django.request - Not Found: /store/products/999/
+2026-04-26 07:12:30,915 (INFO) - django.utils.autoreload - /home/soburwebdevs/Back-end Development/Django Projects/2. Ultimate Django Series Part 3/storefront3/storefront/settings/common.py changed, reloading.
+2026-04-26 07:12:31,244 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2026-04-26 07:12:31,311 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-26 07:12:44,285 (WARNING) - django.request - Unauthorized: /store/collections/
+2026-04-26 07:12:44,301 (WARNING) - django.request - Forbidden: /store/collections/
+2026-04-26 07:12:44,318 (WARNING) - django.request - Bad Request: /store/collections/
+2026-04-26 07:12:44,370 (WARNING) - django.request - Not Found: /store/collections/999/
+2026-04-26 07:12:44,462 (WARNING) - django.request - Bad Request: /store/products/
+2026-04-26 07:12:44,479 (WARNING) - django.request - Forbidden: /store/products/
+2026-04-26 07:12:44,496 (WARNING) - django.request - Unauthorized: /store/products/
+2026-04-26 07:12:44,533 (WARNING) - django.request - Not Found: /store/products/999/
+2026-04-26 07:20:10,632 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
