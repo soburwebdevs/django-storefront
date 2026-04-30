@@ -51,3 +51,12 @@ Not Found: /favicon.ico
 2026-04-30 06:48:18,043 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
 2026-04-30 06:48:31,065 (WARNING) - django.request - Not Found: /favicon.ico
 2026-04-30 06:51:02,791 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 08:54:42,280 (INFO) - django.utils.autoreload - /home/soburwebdevs/Back-end Development/Django Projects/2. Ultimate Django Series Part 3/storefront3/storefront/settings/common.py changed, reloading.
+2026-04-30 08:54:42,640 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2026-04-30 08:54:42,721 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 08:55:23,747 (INFO) - django.utils.autoreload - /home/soburwebdevs/Back-end Development/Django Projects/2. Ultimate Django Series Part 3/storefront3/storefront/settings/common.py changed, reloading.
+2026-04-30 08:55:24,057 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2026-04-30 08:56:01,910 (INFO) - django.utils.autoreload - /home/soburwebdevs/Back-end Development/Django Projects/2. Ultimate Django Series Part 3/storefront3/storefront/settings/common.py changed, reloading.
+2026-04-30 08:56:02,187 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2026-04-30 08:56:32,807 (INFO) - django.utils.autoreload - /home/soburwebdevs/Back-end Development/Django Projects/2. Ultimate Django Series Part 3/storefront3/storefront/settings/common.py changed, reloading.
+2026-04-30 08:56:33,122 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
