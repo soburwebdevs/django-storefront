@@ -34,3 +34,20 @@ Not Found: /favicon.ico
 2026-04-26 07:12:44,496 (WARNING) - django.request - Unauthorized: /store/products/
 2026-04-26 07:12:44,533 (WARNING) - django.request - Not Found: /store/products/999/
 2026-04-26 07:20:10,632 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 05:57:04,219 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:04:14,251 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:06:15,786 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:13:08,787 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:26:11,351 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:32:56,395 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:34:08,944 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:36:03,254 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:38:05,356 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:39:24,737 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:40:28,202 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:44:18,337 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:44:18,843 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:48:17,974 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2026-04-30 06:48:18,043 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2026-04-30 06:48:31,065 (WARNING) - django.request - Not Found: /favicon.ico
+2026-04-30 06:51:02,791 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
